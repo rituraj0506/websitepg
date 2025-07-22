@@ -88972,8 +88972,8 @@ q.X(0,B.y0)
 return q})
 r($,"aTo","WU",()=>{var q="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet turpis nulla."
 return A.b([A.aq8(q,"asset/newyork.png","Nirman Vihar"),A.aq8(q,"asset/washington.png","Anand Vihar"),A.aq8(q,"asset/london.png","Mukhargi Nagar")],A.ar("B<GO>"))})
-s($,"aT8","atc",()=>{var q="Healthy Food"
-return A.b([A.ot("Basket Ball","asset/basketball.png"),A.ot("Library","asset/library.png"),A.ot(q,"asset/purisabji.jpg"),A.ot(q,"asset/lunch.jpg"),A.ot("CafeTeria","asset/cafeteria.png"),A.ot("RO Water","asset/ro.jpg"),A.ot("Wifi","asset/wifi.jpg"),A.ot("Fried Rice","asset/friedrice.jpg")],A.ar("B<IF>"))})
+s($,"aT8","atc",()=>{var q="Healthy Food",p="asset/friedrice.jpg"
+return A.b([A.ot("Basket Ball","asset/basketball.png"),A.ot("Library","asset/library.png"),A.ot(q,"asset/purisabji.jpg"),A.ot(q,p),A.ot("CafeTeria","asset/cafeteria.png"),A.ot("RO Water","asset/ro.jpg"),A.ot("Wifi","asset/wifi.jpg"),A.ot("Fried Rice",p)],A.ar("B<IF>"))})
 r($,"aTp","ath",()=>A.b([A.acl("Home-style cooked meals served fresh every day with proper hygiene and variety.","asset/purisabji.jpg","Delicious & Hygienic Meals"),A.acl("Clean and safe RO water facility available 24/7 for all residents.","asset/ro.jpg","Purified RO Drinking Water"),A.acl("Regular cleaning of rooms and common areas to ensure a tidy and healthy environment.","asset/cleaning.jpg","Daily Cleaning & Sanitization"),A.acl("Unlimited 24x7 internet access with fast speed to support your study or work.","asset/wifi.jpg","High-Speed Wi-Fi Internet")],A.ar("B<tL>")))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}

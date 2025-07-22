@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "435e3c116b271da1098ca18681feb2f9",
+const RESOURCES = {"flutter_bootstrap.js": "299176eb2eef276996f6c0b3f157c4a6",
 "version.json": "46fc1d36f73382d8335bdbc7e1d6799f",
 "index.html": "136c55335dcb4b8c331c3c30ee06e8b0",
 "/": "136c55335dcb4b8c331c3c30ee06e8b0",
-"main.dart.js": "59b5151b23c529a2a744ec29e8e0db69",
+"main.dart.js": "706337fd5ece9ea105098792395fd39b",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -16,7 +16,7 @@ const RESOURCES = {"flutter_bootstrap.js": "435e3c116b271da1098ca18681feb2f9",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "e83036029b398f476741c410b9c0a5be",
 "assets/asset/wifi.jpg": "3e7048e34beb262ec018bfd29a67cbc7",
-"assets/asset/friedrice.jpg": "678bf7ac051d8a721594277fe510dbaf",
+"assets/asset/friedrice.jpg": "2a893937211888837360544361841d16",
 "assets/asset/static_map.png": "0f193b31a966518e7603727da9069959",
 "assets/asset/washington.png": "8d49d5564dd785bcf728e374ae4ca3a4",
 "assets/asset/certificate.jpg": "09161d4e7af0ee0174498c2611bad520",
