@@ -111,15 +111,6 @@ class _GallerypageState extends State<Gallerypage> {
                     Image.asset('asset/logo.png', height: 40),
                     if (!isMobile)
                       Row(
-                        // children: [
-                        //   GestureDetector(onTap:(){ Navigator.pushReplacementNamed(context, 'dashboard');},child: _navText("HOME")),
-                        //   GestureDetector(onTap: (){
-                        //     Navigator.pushReplacementNamed(context, 'about');},child: _navText("ABOUT")),
-                        //   GestureDetector(onTap: (){
-                        //     Navigator.pushReplacementNamed(context, 'gallery');
-                        //   },child: _navText("GALLERY")),
-                        //   _navText("CONTACT"),
-                        // ],
                         children: [
                           _navText("HOME", () => Navigator.pushReplacementNamed(context, 'dashboard')),
                           _navText("ABOUT", () => Navigator.pushReplacementNamed(context, 'about'),),
