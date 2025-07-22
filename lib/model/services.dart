@@ -52,7 +52,7 @@ List<Service> services = [
     description: 'Regular cleaning of rooms and common areas to ensure a tidy and healthy environment.',
   ),
   Service(
-    image: 'asset/wifi.jpg',
+    image: 'asset/cafeteria.png',
     title: 'High-Speed Wi-Fi Internet',
     description: 'Unlimited 24x7 internet access with fast speed to support your study or work.',
   ),
