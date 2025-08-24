@@ -71,7 +71,7 @@ class _DashboardpageState extends State<Dashboardpage> {
                   height: screenHeight,
                   decoration: const BoxDecoration(
                     image: DecorationImage(
-                      image: AssetImage('asset/banner.png'),
+                      image: AssetImage('asset/homeImage.jpg'),
                       fit: BoxFit.cover,
                     ),
                   ),
@@ -118,7 +118,7 @@ class _DashboardpageState extends State<Dashboardpage> {
                         child: Column(
                           children: const [
                             Text(
-                              "Azad House PG LaxmiNagar",
+                              "Pg Like Home",
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                 color: Colors.white,
@@ -128,7 +128,7 @@ class _DashboardpageState extends State<Dashboardpage> {
                             ),
                             SizedBox(height: 10),
                             Text(
-                              "Most affordable PG accommodation for students in Laxmi Nagar.\nIncludes delicious food, high-speed Wi-Fi, RO drinking water,\nelectricity bill, and laundry services — all under one roof.",
+                              "Most affordable PG accommodation for students in Laxmi Nagar.Includes delicious food, high-speed Wi-Fi, RO drinking water,\nelectricity bill, and laundry services — all under one roof.",
                               style: TextStyle(
                                 color: Colors.white70,
                                 fontSize: 16,
